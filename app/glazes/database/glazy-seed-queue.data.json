@@ -1,0 +1,245 @@
+{
+  "autoSkipReview": true,
+  "recipes": [
+    {
+      "enabled": false,
+      "recipeId": 712082,
+      "name": "Heino Poison Orchid",
+      "maker": "chance taylor",
+      "firingCone": "Cone 6-9",
+      "finish": "Matte",
+      "color": "Purple/Orchid",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Nepheline Syenite | 58.00",
+        "Barium Carbonate | 26.00",
+        "Ball Clay | 7.50",
+        "Silica | 6.00",
+        "Lithium Carbonate | 2.50",
+        "Manganese Dioxide | 3.00"
+      ]
+    },
+    {
+      "enabled": false,
+      "recipeId": 726370,
+      "name": "Heino Dappled Green (Copy)",
+      "maker": "Katy Thornton",
+      "firingCone": "Cone 6-9",
+      "finish": "Matte",
+      "color": "Green",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Nepheline Syenite | 58.00",
+        "Barium Carbonate | 26.00",
+        "Ball Clay | 7.50",
+        "Silica | 6.00",
+        "Lithium Carbonate | 2.50",
+        "Copper Carbonate | 5.00",
+        "Rutile | 5.00"
+      ]
+    },
+    {
+      "enabled": false,
+      "recipeId": 407092,
+      "name": "Old Forge Floating Pink, Bubble Gum Pink Gloss",
+      "maker": "Maxwell Holden",
+      "firingCone": "Cone 6",
+      "finish": "Glossy",
+      "color": "Pink",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Ferro Frit 3134 | 30.00",
+        "Silica | 20.00",
+        "Nepheline Syenite A270 | 20.00",
+        "EP Kaolin | 15.00",
+        "Whiting | 15.00",
+        "Tin Oxide | 2.50",
+        "Titanium Dioxide | 2.50",
+        "Bentonite | 2.00",
+        "Chrome Oxide | 0.01"
+      ]
+    },
+    {
+      "enabled": false,
+      "recipeId": 228476,
+      "name": "Apricot",
+      "maker": "Dan Triezenberg",
+      "firingCone": "Cone 6",
+      "finish": "Satin-matte",
+      "color": "Apricot",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Custer Feldspar | 44.00",
+        "Whiting | 20.00",
+        "EP Kaolin | 11.00",
+        "Silica | 11.00",
+        "Ferro Frit 3124 | 6.00",
+        "Lithium Carbonate | 5.00",
+        "Talc | 3.00",
+        "Rutile | 7.00",
+        "Bentonite | 3.00"
+      ]
+    },
+    {
+      "enabled": false,
+      "recipeId": 48674,
+      "name": "Apricot",
+      "maker": "Robin M MacKay",
+      "firingCone": "Cone 6",
+      "finish": "Satin-matte",
+      "color": "Apricot",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Custer Feldspar | 44.00",
+        "Whiting | 19.90",
+        "EP Kaolin | 10.70",
+        "Silica | 10.70",
+        "Ferro Frit 3124 | 6.40",
+        "Lithium Carbonate | 5.30",
+        "Talc | 3.10",
+        "Rutile | 7.00",
+        "Bentonite | 3.00"
+      ]
+    },
+    {
+      "enabled": false,
+      "recipeId": 3663,
+      "name": "Apricot",
+      "maker": "Arline Edmonds",
+      "firingCone": "Cone 5½-7",
+      "finish": "Satin-matte",
+      "color": "Apricot",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Custer Feldspar | 44.00",
+        "Whiting | 20.00",
+        "EP Kaolin | 10.70",
+        "Silica | 10.70",
+        "Ferro Frit 3124 | 6.40",
+        "Lithium Carbonate | 5.30",
+        "Talc | 3.10",
+        "Rutile | 7.70",
+        "Bentonite | 3.20"
+      ]
+    },
+    {
+      "enabled": true,
+      "recipeId": 764609,
+      "name": "Raspberry Float",
+      "maker": "Caroline Payne",
+      "firingCone": "Cone 5-6",
+      "finish": "Glossy",
+      "color": "Pink",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Silica | 31.50",
+        "Nepheline Syenite | 30.00",
+        "Gillespie Borate | 19.50",
+        "Zinc Oxide | 12.50",
+        "Tile #6 Kaolin | 6.50",
+        "Stain | 5.00",
+        "Rutile | 2.00",
+        "Zircopax | 2.00"
+      ]
+    },
+    {
+      "enabled": true,
+      "recipeId": 764610,
+      "name": "Passionfruit Float",
+      "maker": "Caroline Payne",
+      "firingCone": "Cone 5-6",
+      "finish": "Glossy",
+      "color": "Unspecified",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Nepheline Syenite | 38.00",
+        "Gillespie Borate | 24.00",
+        "Silica | 24.00",
+        "Zinc Oxide | 8.00",
+        "Tile #6 Kaolin | 6.00",
+        "Stain | 7.00",
+        "Rutile | 2.00",
+        "Titanium Dioxide | 2.00",
+        "Zircopax | 2.00"
+      ]
+    },
+    {
+      "enabled": true,
+      "recipeId": 764608,
+      "name": "Sherbet",
+      "maker": "Caroline Payne",
+      "firingCone": "Cone 5-6",
+      "finish": "Glossy",
+      "color": "Pink",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "G-200 Feldspar | 43.00",
+        "Gillespie Borate | 18.00",
+        "Silica | 18.00",
+        "Zinc Oxide | 8.00",
+        "Dolomite | 6.00",
+        "Tile #6 Kaolin | 5.00",
+        "Whiting | 2.00",
+        "Rutile | 10.00",
+        "Stain | 5.00"
+      ]
+    },
+    {
+      "enabled": true,
+      "recipeId": 20101,
+      "name": "Licorice MC6G",
+      "maker": "Trees Wijnands",
+      "firingCone": "Cone 6",
+      "finish": "Glossy",
+      "color": "Black",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Ferro Frit 3134 | 26.00",
+        "Silica | 26.00",
+        "Custer Feldspar | 22.00",
+        "EP Kaolin | 17.00",
+        "Talc | 5.00",
+        "Whiting | 4.00",
+        "Red Iron Oxide | 9.00",
+        "Cobalt Carbonate | 2.00"
+      ]
+    },
+    {
+      "enabled": true,
+      "recipeId": 698480,
+      "name": "Locke's Residue",
+      "maker": "Heartless Machine",
+      "firingCone": "Cone 6",
+      "finish": "Glossy",
+      "color": "Unspecified",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Silica | 44.00",
+        "EP Kaolin | 20.00",
+        "Ferro Frit 3134 | 12.00",
+        "Nepheline Syenite | 12.00",
+        "Whiting | 12.00",
+        "Epsom salts | 8.00",
+        "Silicon carbide | 0.20"
+      ]
+    },
+    {
+      "enabled": true,
+      "recipeId": 354165,
+      "name": "Basic Temmoku (Colombia)",
+      "maker": "Sirenaazuleja",
+      "firingCone": "Cone 5.5-6",
+      "finish": "Matte",
+      "color": "Brown/Black",
+      "description": "Measured glaze recipe imported from Glazy seed queue.",
+      "recipeRows": [
+        "Caolin Nacional JM325 Discontinued | 29.88",
+        "Whiting | 24.90",
+        "Nepheline Syenite A270 | 24.90",
+        "Silica | 20.32",
+        "Red Iron Oxide | 10.00",
+        "Bentonite | 2.00"
+      ]
+    }
+  ]
+}
