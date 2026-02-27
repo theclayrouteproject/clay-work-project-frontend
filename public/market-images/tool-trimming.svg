@@ -1,0 +1,19 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6E7242"/>
+      <stop offset="1" stop-color="#3B2A1F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg5)"/>
+  <rect x="120" y="110" width="960" height="680" rx="30" fill="#2B1D14" fill-opacity="0.58"/>
+  <rect x="290" y="260" width="620" height="380" rx="28" fill="#F2E6C8" fill-opacity="0.2" stroke="#F2E6C8" stroke-opacity="0.45" stroke-width="3"/>
+  <rect x="380" y="310" width="430" height="22" rx="11" fill="#A44E32"/>
+  <rect x="380" y="410" width="430" height="22" rx="11" fill="#A44E32"/>
+  <rect x="380" y="510" width="430" height="22" rx="11" fill="#A44E32"/>
+  <circle cx="350" cy="321" r="22" fill="#D8C09A"/>
+  <circle cx="350" cy="421" r="22" fill="#D8C09A"/>
+  <circle cx="350" cy="521" r="22" fill="#D8C09A"/>
+  <text x="600" y="730" text-anchor="middle" fill="#F2E6C8" font-size="44" font-family="Arial" font-weight="800">TRIMMING TOOL SET</text>
+  <text x="600" y="778" text-anchor="middle" fill="#F2E6C8" font-size="28" font-family="Arial" font-weight="600">PRECISION BLADES • STUDIO GRADE</text>
+</svg>

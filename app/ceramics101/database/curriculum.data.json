@@ -1,0 +1,263 @@
+[
+  {
+    "id": "b-clay-basics",
+    "level": "Beginner",
+    "title": "Clay Bodies 101",
+    "summary": "Understand earthenware, stoneware, and porcelain, and when to choose each.",
+    "keywords": [
+      "earthenware",
+      "stoneware",
+      "porcelain",
+      "plasticity",
+      "shrinkage"
+    ],
+    "steps": [
+      "Use earthenware for low-fire color work and quick cycles.",
+      "Use stoneware for durable functional ware at mid/high fire.",
+      "Use porcelain for fine detail and translucent results.",
+      "Track shrinkage and warping with simple test bars."
+    ]
+  },
+  {
+    "id": "b-tools-studio",
+    "level": "Beginner",
+    "title": "Essential Tools & Studio Setup",
+    "summary": "Build a clean, safe, low-stress workspace from day one.",
+    "keywords": [
+      "tools",
+      "studio",
+      "cleanup",
+      "safety",
+      "organization"
+    ],
+    "steps": [
+      "Start with core tools: rib, needle, sponge, wire, trimming loop.",
+      "Create separate wet and dry zones to reduce dust exposure.",
+      "Label reclaim, slip, and test buckets clearly.",
+      "Use wet-cleaning methods instead of dry sweeping."
+    ]
+  },
+  {
+    "id": "b-handbuilding",
+    "level": "Beginner",
+    "title": "Handbuilding Foundations",
+    "summary": "Master pinch, coil, and slab methods with strong joins and clean forms.",
+    "keywords": [
+      "pinch",
+      "coil",
+      "slab",
+      "score and slip",
+      "compression"
+    ],
+    "steps": [
+      "Compress base surfaces to prevent S-cracks.",
+      "Score and slip all structural joints.",
+      "Work in stages and let forms firm up between steps.",
+      "Control thickness consistency using guides."
+    ]
+  },
+  {
+    "id": "b-wheel-intro",
+    "level": "Beginner",
+    "title": "Wheel Throwing Basics",
+    "summary": "Center confidently, pull even walls, and finish clean rims.",
+    "keywords": [
+      "centering",
+      "throwing",
+      "rims",
+      "walls",
+      "wheel"
+    ],
+    "steps": [
+      "Focus first on posture and bracing before speed.",
+      "Center with controlled pressure, not force.",
+      "Pull walls in 2-3 deliberate passes.",
+      "Compress the rim every pass to avoid cracking."
+    ]
+  },
+  {
+    "id": "i-trimming",
+    "level": "Intermediate",
+    "title": "Trimming & Foot Design",
+    "summary": "Improve balance, visual weight, and function through intentional footwork.",
+    "keywords": [
+      "trimming",
+      "foot ring",
+      "chuck",
+      "leather hard"
+    ],
+    "steps": [
+      "Trim at true leather-hard for predictable cuts.",
+      "Design foot profiles to match form language.",
+      "Use chucks for narrow-necked forms and lidded sets.",
+      "Compare finished weights and adjust trim strategy."
+    ]
+  },
+  {
+    "id": "i-drying",
+    "level": "Intermediate",
+    "title": "Drying Control & Crack Prevention",
+    "summary": "Use moisture management to reduce losses and improve consistency.",
+    "keywords": [
+      "drying",
+      "cracks",
+      "warping",
+      "moisture"
+    ],
+    "steps": [
+      "Dry bottoms slowly by flipping onto boards early.",
+      "Cover rims/lips to even moisture loss.",
+      "Batch similar thicknesses together.",
+      "Use damp boxes for multi-day projects."
+    ]
+  },
+  {
+    "id": "i-surface",
+    "level": "Intermediate",
+    "title": "Surface Design & Decoration",
+    "summary": "Layer slips, underglazes, carving, and texture in a controlled workflow.",
+    "keywords": [
+      "underglaze",
+      "slip",
+      "sgraffito",
+      "texture",
+      "layering"
+    ],
+    "steps": [
+      "Map your decoration timing from wet to bisque stage.",
+      "Use test tiles for line quality and color bleed.",
+      "Keep motif scale proportional to form volume.",
+      "Document brush/load ratios for repeatability."
+    ]
+  },
+  {
+    "id": "i-glaze-application",
+    "level": "Intermediate",
+    "title": "Glaze Application Strategies",
+    "summary": "Control thickness and overlap so glaze results are intentional.",
+    "keywords": [
+      "glaze",
+      "dipping",
+      "pouring",
+      "brushing",
+      "thickness"
+    ],
+    "steps": [
+      "Target a consistent specific gravity in buckets.",
+      "Track dip time and drain time for repeatable coats.",
+      "Wipe feet clean and test overlap combinations.",
+      "Label all tests with clay body and firing schedule."
+    ]
+  },
+  {
+    "id": "a-kiln-firing",
+    "level": "Advanced",
+    "title": "Kiln Operation & Firing Curves",
+    "summary": "Design firing schedules that fit clay, glaze, and atmosphere goals.",
+    "keywords": [
+      "kiln",
+      "firing",
+      "cones",
+      "ramp",
+      "soak"
+    ],
+    "steps": [
+      "Use witness cones on multiple kiln shelves.",
+      "Tune ramps/holds based on glaze maturity and defects.",
+      "Record every firing with load notes and outcomes.",
+      "Adjust one variable per cycle for clean comparisons."
+    ]
+  },
+  {
+    "id": "a-defect-diagnosis",
+    "level": "Advanced",
+    "title": "Defect Diagnosis",
+    "summary": "Systematically solve pinholing, crazing, crawling, and dunting.",
+    "keywords": [
+      "pinholing",
+      "crazing",
+      "crawling",
+      "dunting",
+      "fit"
+    ],
+    "steps": [
+      "Classify defects by stage: drying, bisque, glaze, cooling.",
+      "Check glaze fit against clay expansion behavior.",
+      "Review application thickness and bisque temperature.",
+      "Build controlled A/B test batches before full runs."
+    ]
+  },
+  {
+    "id": "a-production",
+    "level": "Advanced",
+    "title": "Small-Batch Production Systems",
+    "summary": "Create repeatable workflows for sets, market runs, and commissions.",
+    "keywords": [
+      "production",
+      "batching",
+      "workflow",
+      "quality control"
+    ],
+    "steps": [
+      "Standardize dimensions with simple jigs and calipers.",
+      "Use stage gates: throw, trim, glaze, final QA.",
+      "Track cycle time and reject reasons weekly.",
+      "Maintain backup clay/glaze batches for continuity."
+    ]
+  },
+  {
+    "id": "m-style",
+    "level": "Master",
+    "title": "Developing a Signature Style",
+    "summary": "Evolve a coherent body of work with clear visual identity.",
+    "keywords": [
+      "style",
+      "voice",
+      "collection",
+      "aesthetic"
+    ],
+    "steps": [
+      "Define shape language: silhouette, proportion, rhythm.",
+      "Limit palette and glaze system for cohesive collections.",
+      "Review work in grouped series, not isolated pieces.",
+      "Refine based on intent, not novelty."
+    ]
+  },
+  {
+    "id": "m-critique",
+    "level": "Master",
+    "title": "Critique, Reflection, and Iteration",
+    "summary": "Use structured critique loops to improve faster and deeper.",
+    "keywords": [
+      "critique",
+      "iteration",
+      "journal",
+      "evaluation"
+    ],
+    "steps": [
+      "Photograph each batch under consistent lighting.",
+      "Score forms on function, balance, and finish.",
+      "Write post-firing notes and next-cycle actions.",
+      "Plan your next tests directly from critique outcomes."
+    ]
+  },
+  {
+    "id": "m-business",
+    "level": "Master",
+    "title": "Professional Practice & Sustainability",
+    "summary": "Scale your ceramics practice with healthy systems and long-term resilience.",
+    "keywords": [
+      "pricing",
+      "inventory",
+      "packaging",
+      "sustainability",
+      "career"
+    ],
+    "steps": [
+      "Set pricing from labor, overhead, and breakage realities.",
+      "Build inventory tiers: everyday, seasonal, collector.",
+      "Design packaging standards for shipping durability.",
+      "Incorporate reclaim, efficient firing, and low-waste habits."
+    ]
+  }
+]

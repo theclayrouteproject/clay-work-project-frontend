@@ -1,0 +1,20 @@
+{
+  "maxCandidatesPerRun": 1200,
+  "feeds": [
+    {
+      "name": "Glazy Search Feed",
+      "url": "https://glazy.org/rss",
+      "type": "rss",
+      "allowDomains": ["glazy.org"],
+      "defaultMaker": "Glazy contributor"
+    },
+    {
+      "name": "Glazy Recipe Sitemap",
+      "url": "https://glazy.org/sitemap.xml",
+      "type": "sitemap",
+      "allowDomains": ["glazy.org"],
+      "includePathContains": ["/recipe", "/recipes", "/glaze"],
+      "defaultMaker": "Glazy contributor"
+    }
+  ]
+}

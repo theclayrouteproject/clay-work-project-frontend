@@ -1,0 +1,59 @@
+{
+  "updatedAt": "2026-02-26T00:00:00.000Z",
+  "vendors": [
+    {
+      "name": "The Ceramic Shop",
+      "website": "https://www.theceramicshop.com/",
+      "city": "Norristown",
+      "state": "PA",
+      "rating": 4.7,
+      "reviewCount": 1200,
+      "reviewSource": "Google Reviews"
+    },
+    {
+      "name": "Bailey Pottery",
+      "website": "https://www.baileypottery.com/",
+      "city": "Kingston",
+      "state": "NY",
+      "rating": 4.6,
+      "reviewCount": 340,
+      "reviewSource": "Google Reviews"
+    },
+    {
+      "name": "Sheffield Pottery",
+      "website": "https://www.sheffield-pottery.com/",
+      "city": "Sheffield",
+      "state": "MA",
+      "rating": 4.5,
+      "reviewCount": 280,
+      "reviewSource": "Google Reviews"
+    },
+    {
+      "name": "Clay-King",
+      "website": "https://www.clay-king.com/",
+      "city": "Columbus",
+      "state": "OH",
+      "rating": 4.4,
+      "reviewCount": 410,
+      "reviewSource": "Google Reviews"
+    },
+    {
+      "name": "Blick Art Materials",
+      "website": "https://www.dickblick.com/",
+      "city": "Galesburg",
+      "state": "IL",
+      "rating": 4.3,
+      "reviewCount": 900,
+      "reviewSource": "Google Reviews"
+    },
+    {
+      "name": "CeramicsShop",
+      "website": "https://ceramicsshop.com/",
+      "city": "Baltimore",
+      "state": "MD",
+      "rating": 4.4,
+      "reviewCount": 140,
+      "reviewSource": "Google Reviews"
+    }
+  ]
+}

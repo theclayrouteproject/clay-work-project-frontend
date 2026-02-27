@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Feldspar",
+    "category": "Flux",
+    "availabilityStatus": "available",
+    "lastSeenAt": "2026-02-25",
+    "notes": "Common commercial source in studio supply chains.",
+    "stalenessDays": 1
+  },
+  {
+    "name": "Silica",
+    "category": "Glass Former",
+    "availabilityStatus": "available",
+    "lastSeenAt": "2026-02-25",
+    "notes": "Widely available but dust safety controls required.",
+    "stalenessDays": 1
+  },
+  {
+    "name": "Whiting",
+    "category": "Flux",
+    "availabilityStatus": "available",
+    "lastSeenAt": "2026-02-25",
+    "notes": "Calcium carbonate source used in many glaze systems.",
+    "stalenessDays": 1
+  }
+]

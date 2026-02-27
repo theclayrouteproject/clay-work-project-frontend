@@ -1,5 +1,5 @@
-import VerifyGlazesClient from "./VerifyGlazesClient";
+import VerifyGlazesClientDynamic from "./VerifyGlazesClientDynamic";
 
 export default function VerifyGlazesPage() {
-  return <VerifyGlazesClient />;
+  return <VerifyGlazesClientDynamic />;
 }

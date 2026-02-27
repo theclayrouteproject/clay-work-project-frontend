@@ -1,0 +1,20 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8D9158"/>
+      <stop offset="1" stop-color="#3B2A1F"/>
+    </linearGradient>
+    <linearGradient id="jar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EEE2C0"/>
+      <stop offset="1" stop-color="#C8AE84"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg2)"/>
+  <rect x="120" y="100" width="960" height="700" rx="32" fill="#4A2F1C" fill-opacity="0.62"/>
+  <rect x="330" y="210" width="540" height="470" rx="42" fill="url(#jar)"/>
+  <rect x="355" y="260" width="490" height="64" rx="24" fill="#A44E32"/>
+  <text x="600" y="303" text-anchor="middle" fill="#F2E6C8" font-size="36" font-family="Arial" font-weight="700">POTASH FELDSPAR</text>
+  <rect x="410" y="390" width="380" height="190" rx="20" fill="#F2E6C8" fill-opacity="0.65"/>
+  <text x="600" y="470" text-anchor="middle" fill="#4A2F1C" font-size="64" font-family="Arial" font-weight="800">K2O</text>
+  <text x="600" y="530" text-anchor="middle" fill="#4A2F1C" font-size="30" font-family="Arial" font-weight="600">CERAMIC FLUX</text>
+</svg>

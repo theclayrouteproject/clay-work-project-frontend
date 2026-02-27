@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "maxCandidatesPerRun": 40,
+  "feeds": [
+    {
+      "name": "Glazy Help",
+      "url": "https://help.glazy.org/feed.xml",
+      "type": "rss",
+      "category": "Glazy",
+      "allowDomains": ["help.glazy.org"]
+    },
+    {
+      "name": "Ceramic Arts Network",
+      "url": "https://ceramicartsnetwork.org/feed/",
+      "type": "rss",
+      "category": "Reference",
+      "allowDomains": ["ceramicartsnetwork.org"]
+    },
+    {
+      "name": "Digitalfire",
+      "url": "https://digitalfire.com/sitemap.xml",
+      "type": "sitemap",
+      "category": "Reference",
+      "allowDomains": ["digitalfire.com"]
+    },
+    {
+      "name": "ACerS",
+      "url": "https://ceramics.org/sitemap_index.xml",
+      "type": "sitemap",
+      "category": "Reference",
+      "allowDomains": ["ceramics.org"]
+    }
+  ]
+}

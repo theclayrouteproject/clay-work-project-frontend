@@ -1,0 +1,239 @@
+{
+  "sources": [
+    {
+      "title": "Alfred University – Ceramic Art (Graduate Program)",
+      "url": "https://www.alfred.edu/academics/graduate-programs/ceramic-art/",
+      "category": "Reference"
+    },
+    {
+      "title": "Alfred University – Ceramic Engineering",
+      "url": "https://www.alfred.edu/academics/undergraduate-majors-minors/ceramic-engineering/",
+      "category": "Reference"
+    },
+    {
+      "title": "Biscuit (Pottery) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Biscuit_(pottery)",
+      "category": "Reference"
+    },
+    {
+      "title": "Ceramic (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ceramic",
+      "category": "Reference"
+    },
+    {
+      "title": "Ceramic Arts Network",
+      "url": "https://ceramicartsnetwork.org/",
+      "category": "Reference"
+    },
+    {
+      "title": "Ceramic Glaze (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Glaze_(ceramics)",
+      "category": "Reference"
+    },
+    {
+      "title": "Clay (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clay",
+      "category": "Reference"
+    },
+    {
+      "title": "Digitalfire Reference Library",
+      "url": "https://digitalfire.com/",
+      "category": "Reference"
+    },
+    {
+      "title": "Earthenware (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Earthenware",
+      "category": "Reference"
+    },
+    {
+      "title": "Glazy Help",
+      "url": "https://help.glazy.org/",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – Common Glaze Defects",
+      "url": "https://help.glazy.org/concepts/defects",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – Firing",
+      "url": "https://help.glazy.org/concepts/firing",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – Kiln Schedules Guide",
+      "url": "https://help.glazy.org/guide/kiln-schedules",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – Mixing Test Recipes",
+      "url": "https://help.glazy.org/testing/mixing-tests",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – Posts Guide",
+      "url": "https://help.glazy.org/guide/posts",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – Safety Guidelines",
+      "url": "https://help.glazy.org/concepts/safety",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – Temperature & Heatwork",
+      "url": "https://help.glazy.org/concepts/temperature",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – What Is Clay?",
+      "url": "https://help.glazy.org/concepts/clay",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Help – What Is Glaze?",
+      "url": "https://help.glazy.org/concepts/glaze",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy Wiki (Archived)",
+      "url": "https://wiki.glazy.org/",
+      "category": "Glazy"
+    },
+    {
+      "title": "Glazy.org Community Database",
+      "url": "https://glazy.org/",
+      "category": "Glazy"
+    },
+    {
+      "title": "Kiln (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kiln",
+      "category": "Reference"
+    },
+    {
+      "title": "New York State College of Ceramics at Alfred University",
+      "url": "https://www.alfred.edu/academics/colleges-schools/new-york-state-college-ceramics/",
+      "category": "Reference"
+    },
+    {
+      "title": "Orton Ceramic Foundation",
+      "url": "https://www.ortonceramic.com/",
+      "category": "Reference"
+    },
+    {
+      "title": "Porcelain (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Porcelain",
+      "category": "Reference"
+    },
+    {
+      "title": "Pottery (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Pottery",
+      "category": "Reference"
+    },
+    {
+      "title": "Pyrometric Cone (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Pyrometric_cone",
+      "category": "Reference"
+    },
+    {
+      "title": "Royal College of Art – Ceramics & Glass (MA)",
+      "url": "https://www.rca.ac.uk/study/programme-finder/ceramics-glass-ma/",
+      "category": "Reference"
+    },
+    {
+      "title": "Slip (Ceramics) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Slip_(ceramics)",
+      "category": "Reference"
+    },
+    {
+      "title": "Stoneware (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Stoneware",
+      "category": "Reference"
+    },
+    {
+      "title": "The American Ceramic Society (ACerS)",
+      "url": "https://ceramics.org/",
+      "category": "Reference"
+    },
+    {
+      "title": "Underglaze (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Underglaze",
+      "category": "Reference"
+    },
+    {
+      "title": "Vitrification (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Vitrification",
+      "category": "Reference"
+    }
+  ],
+  "topicSources": {
+    "b-clay-basics": [
+      "https://en.wikipedia.org/wiki/Earthenware",
+      "https://en.wikipedia.org/wiki/Stoneware",
+      "https://en.wikipedia.org/wiki/Porcelain",
+      "https://help.glazy.org/concepts/clay"
+    ],
+    "b-tools-studio": [
+      "https://help.glazy.org/concepts/safety",
+      "https://help.glazy.org/testing/mixing-tests",
+      "https://en.wikipedia.org/wiki/Pottery"
+    ],
+    "b-handbuilding": [
+      "https://en.wikipedia.org/wiki/Pottery",
+      "https://en.wikipedia.org/wiki/Slip_(ceramics)",
+      "https://help.glazy.org/concepts/clay"
+    ],
+    "b-wheel-intro": [
+      "https://en.wikipedia.org/wiki/Pottery",
+      "https://help.glazy.org/concepts/clay"
+    ],
+    "i-trimming": [
+      "https://en.wikipedia.org/wiki/Pottery",
+      "https://help.glazy.org/concepts/clay"
+    ],
+    "i-drying": [
+      "https://en.wikipedia.org/wiki/Pottery",
+      "https://help.glazy.org/concepts/clay",
+      "https://help.glazy.org/concepts/firing"
+    ],
+    "i-surface": [
+      "https://en.wikipedia.org/wiki/Slip_(ceramics)",
+      "https://en.wikipedia.org/wiki/Underglaze",
+      "https://help.glazy.org/concepts/glaze"
+    ],
+    "i-glaze-application": [
+      "https://help.glazy.org/testing/mixing-tests",
+      "https://help.glazy.org/concepts/glaze",
+      "https://glazy.org/"
+    ],
+    "a-kiln-firing": [
+      "https://en.wikipedia.org/wiki/Kiln",
+      "https://help.glazy.org/concepts/temperature",
+      "https://help.glazy.org/concepts/firing"
+    ],
+    "a-defect-diagnosis": [
+      "https://help.glazy.org/concepts/defects",
+      "https://help.glazy.org/concepts/glaze",
+      "https://en.wikipedia.org/wiki/Glaze_(ceramics)"
+    ],
+    "a-production": [
+      "https://help.glazy.org/testing/mixing-tests",
+      "https://glazy.org/",
+      "https://help.glazy.org/guide/kiln-schedules"
+    ],
+    "m-style": [
+      "https://glazy.org/",
+      "https://en.wikipedia.org/wiki/Ceramic"
+    ],
+    "m-critique": [
+      "https://glazy.org/",
+      "https://help.glazy.org/guide/posts",
+      "https://help.glazy.org/testing/mixing-tests"
+    ],
+    "m-business": [
+      "https://help.glazy.org/concepts/safety",
+      "https://help.glazy.org/",
+      "https://glazy.org/"
+    ]
+  }
+}

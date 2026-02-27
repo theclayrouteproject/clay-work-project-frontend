@@ -1,0 +1,20 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B2A1F"/>
+      <stop offset="1" stop-color="#A44E32"/>
+    </linearGradient>
+    <radialGradient id="heat" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 500) rotate(90) scale(160 220)">
+      <stop stop-color="#FFD27A"/>
+      <stop offset="1" stop-color="#E3773A"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg4)"/>
+  <rect x="130" y="100" width="940" height="700" rx="30" fill="#2B1D14" fill-opacity="0.6"/>
+  <rect x="330" y="200" width="540" height="520" rx="36" fill="#F2E6C8" fill-opacity="0.24" stroke="#F2E6C8" stroke-opacity="0.5" stroke-width="4"/>
+  <rect x="420" y="300" width="360" height="320" rx="26" fill="url(#heat)"/>
+  <circle cx="810" cy="260" r="28" fill="#A44E32"/>
+  <circle cx="810" cy="260" r="11" fill="#F2E6C8"/>
+  <text x="600" y="760" text-anchor="middle" fill="#F2E6C8" font-size="44" font-family="Arial" font-weight="800">ELECTRIC KILN</text>
+  <text x="600" y="808" text-anchor="middle" fill="#F2E6C8" font-size="28" font-family="Arial" font-weight="600">PROGRAMMABLE • CONE 10 CAPABLE</text>
+</svg>

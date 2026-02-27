@@ -1,0 +1,55 @@
+{
+  "maxCandidatesPerRun": 600,
+  "feeds": [
+    {
+      "name": "The Ceramic Shop Products",
+      "url": "https://www.theceramicshop.com/sitemap.xml",
+      "type": "sitemap",
+      "allowDomains": ["theceramicshop.com"],
+      "includePathContains": ["wheel", "kiln", "tool", "bat", "accessor"],
+      "defaultRegion": "US",
+      "defaultState": "PA",
+      "maxPerFeed": 150
+    },
+    {
+      "name": "Bailey Pottery Products",
+      "url": "https://www.baileypottery.com/sitemap.xml",
+      "type": "sitemap",
+      "allowDomains": ["baileypottery.com"],
+      "includePathContains": ["wheel", "kiln", "tool", "bat", "accessor"],
+      "defaultRegion": "US",
+      "defaultState": "NY",
+      "maxPerFeed": 150
+    },
+    {
+      "name": "Sheffield Pottery Products",
+      "url": "https://www.sheffield-pottery.com/sitemap.xml",
+      "type": "sitemap",
+      "allowDomains": ["sheffield-pottery.com"],
+      "includePathContains": ["wheel", "kiln", "tool", "bat", "accessor"],
+      "defaultRegion": "US",
+      "defaultState": "MA",
+      "maxPerFeed": 150
+    },
+    {
+      "name": "Clay-King Products",
+      "url": "https://www.clay-king.com/sitemap.xml",
+      "type": "sitemap",
+      "allowDomains": ["clay-king.com"],
+      "includePathContains": ["wheel", "kiln", "tool", "used", "refurb"],
+      "defaultRegion": "US",
+      "defaultState": "OH",
+      "maxPerFeed": 150
+    },
+    {
+      "name": "CeramicsShop Products",
+      "url": "https://ceramicsshop.com/sitemap.xml",
+      "type": "sitemap",
+      "allowDomains": ["ceramicsshop.com"],
+      "includePathContains": ["wheel", "kiln", "tool", "bat", "accessor", "used"],
+      "defaultRegion": "US",
+      "defaultState": "MD",
+      "maxPerFeed": 120
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #8a9b6a;
+  --foreground: #f2e6c8;
+  --card-char-brown: #3b2a1f;
+  --card-border: #a44e32;
 }
 
 @theme inline {
@@ -14,13 +16,148 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #8a9b6a;
+    --foreground: #f2e6c8;
   }
 }
 
 body {
-  background: var(--background);
+  position: relative;
+  isolation: isolate;
+  background-color: var(--background);
   color: var(--foreground);
+  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+body :is(h1, h2, h3, h4, h5, h6, p, span, a, li, dt, dd, label, small, strong, em, button, input, textarea, select, option) {
+  color: var(--foreground) !important;
+}
+
+button {
+  font-weight: 600;
+  border-radius: 9999px;
+  transition: background-color 180ms ease, color 180ms ease, border-color 180ms ease, transform 140ms ease, box-shadow 180ms ease;
+}
+
+button:not(:disabled):active {
+  transform: scale(0.98);
+}
+
+select {
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 9999px;
+  padding-right: 2.5rem;
+  background-color: #3b2a1f !important;
+  border: 1px solid color-mix(in srgb, #f2e6c8 42%, #3b2a1f 58%);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%23F2E6C8'%3E%3Cpath fill-rule='evenodd' d='M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.168l3.71-3.938a.75.75 0 1 1 1.08 1.04l-4.24 4.5a.75.75 0 0 1-1.08 0l-4.24-4.5a.75.75 0 0 1 .02-1.06Z' clip-rule='evenodd'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 1rem 1rem;
+}
+
+select:focus {
+  outline: none;
+  border-color: #f2e6c8;
+}
+
+:is(button, a).bg-\[\#A44E32\] {
+  border: 1px solid color-mix(in srgb, #a44e32 75%, #f2e6c8 25%);
+  box-shadow: none;
+  letter-spacing: 0.01em;
+  background-image: none !important;
+}
+
+:is(button, a).bg-\[\#A44E32\]:hover {
+  transform: translateY(-1px);
+  box-shadow: none;
+}
+
+:is(button, a).bg-\[\#F2E6C8\]\/10,
+:is(button, a).bg-\[\#F2E6C8\]\/15 {
+  border: 1px solid color-mix(in srgb, #f2e6c8 42%, #3b2a1f 58%);
+  background-image: none !important;
+  box-shadow: none;
+}
+
+:is(button, a).bg-\[\#F2E6C8\]\/10:hover,
+:is(button, a).bg-\[\#F2E6C8\]\/15:hover {
+  transform: translateY(-1px);
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("/TCRP%20Logo_2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: min(72vw, 760px);
+  opacity: 0.35;
+  -webkit-mask-image: radial-gradient(circle at center, black 50%, transparent 85%);
+  mask-image: radial-gradient(circle at center, black 50%, transparent 85%);
+}
+
+main.bg-\[\#8D9158\] {
+  background-color: transparent !important;
+}
+
+.bg-\[\#3B2A1F\]\/80,
+.bg-\[\#3B2A1F\]\/65,
+.bg-\[\#4A2F1C\]\/85,
+.bg-\[\#4A2F1C\],
+.bg-\[\#556B2F\]\/70,
+.bg-\[\#F2E3C7\] {
+  background-color: var(--card-char-brown) !important;
+}
+
+.rounded-xl.border-\[\#A44E32\]\/40,
+.rounded-xl.border-\[\#F2E6C8\]\/20,
+.rounded-xl.border-\[\#F2E6C8\]\/25,
+.rounded-lg.border-\[\#F2E6C8\]\/20,
+.rounded-lg.border-\[\#F2E6C8\]\/30 {
+  border-color: color-mix(in srgb, var(--card-border) 75%, #ffffff 25%) !important;
+}
+
+@keyframes knowledgeOverlayIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes knowledgeModalIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.knowledge-overlay-in {
+  animation: knowledgeOverlayIn 180ms ease-out;
+}
+
+.knowledge-modal-in {
+  animation: knowledgeModalIn 220ms ease-out;
+}
+
+.logo-trim-edge {
+  clip-path: inset(2px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .knowledge-overlay-in,
+  .knowledge-modal-in {
+    animation: none;
+  }
 }

@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local db worker artifacts
+/var/
+/app/ceramics101/database/incoming/
+/app/ceramics101/database/discovery-review/
+/app/market/database/incoming/
+/app/market/database/discovery-review/
+/app/glazes/database/incoming/
+/app/glazes/database/discovery-review/
