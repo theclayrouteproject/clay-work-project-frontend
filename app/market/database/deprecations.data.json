@@ -1,4 +1,829 @@
 {
-  "updatedAt": "2026-02-27T00:45:49.772Z",
-  "items": []
+  "updatedAt": "2026-02-27T00:56:14.827Z",
+  "items": [
+    {
+      "id": "5-top-rated-pottery-wheels-www-baileypottery-com-blog-5-top-rated-pottery-wheels",
+      "name": "5 Top Rated Pottery Wheels",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/5-top-rated-pottery-wheels",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:50:56.791Z"
+    },
+    {
+      "id": "artisan-ot-10-wire-cut-off-tool-with-wood-handles-www-clay-king-com-product-arti",
+      "name": "Artisan Ot 10 Wire Cut Off Tool With Wood Handles",
+      "category": "Clays",
+      "sourceUrl": "http://www.clay-king.com/product/artisan-ot-10-wire-cut-off-tool-with-wood-handles/",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:13.465Z"
+    },
+    {
+      "id": "baby-banding-wheel-www-clay-king-com-product-baby-banding-wheel",
+      "name": "Baby Banding Wheel",
+      "category": "Machines",
+      "sourceUrl": "http://www.clay-king.com/product/baby-banding-wheel/",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:14.339Z"
+    },
+    {
+      "id": "bailey-commercial-duty-electric-kilns-www-baileypottery-com-bailey-commercial-du",
+      "name": "Bailey Commercial Duty Electric Kilns",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/bailey-commercial-duty-electric-kilns",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:15.589Z"
+    },
+    {
+      "id": "bailey-holiday-wheel-sale-www-baileypottery-com-blog-bailey-holiday-wheel-sale",
+      "name": "Bailey Holiday Wheel Sale",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/bailey-holiday-wheel-sale",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:24.265Z"
+    },
+    {
+      "id": "bailey-holiday-wheel-sale1-www-baileypottery-com-blog-bailey-holiday-wheel-sale1",
+      "name": "Bailey Holiday Wheel Sale1",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/bailey-holiday-wheel-sale1",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:24.735Z"
+    },
+    {
+      "id": "bailey-s-how-to-choose-the-right-pottery-kiln-www-baileypottery-com-blog-bailey-",
+      "name": "Bailey S How To Choose The Right Pottery Kiln",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/bailey-s-how-to-choose-the-right-pottery-kiln",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:28.481Z"
+    },
+    {
+      "id": "bailey-top-loading-electric-kiln-disassembly-www-baileypottery-com-blog-bailey-t",
+      "name": "Bailey Top Loading Electric Kiln Disassembly",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/bailey-top-loading-electric-kiln-disassembly",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:36.805Z"
+    },
+    {
+      "id": "banding-wheel-and-turntable-roundup-www-baileypottery-com-blog-banding-wheel-and",
+      "name": "Banding Wheel And Turntable Roundup",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/banding-wheel-and-turntable-roundup",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:39.588Z"
+    },
+    {
+      "id": "bark-html-www-baileypottery-com-pottery-ceramic-tools-finishing-accessories-stop",
+      "name": "Bark.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/finishing-accessories/stoppers/bark.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:40.515Z"
+    },
+    {
+      "id": "best-pottery-supplies-for-beginners-essential-tools-to-get-started-www-baileypot",
+      "name": "Best Pottery Supplies For Beginners Essential Tools To Get Started",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/best-pottery-supplies-for-beginners-essential-tools-to-get-started",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:41.964Z"
+    },
+    {
+      "id": "best-pottery-wheels-for-beginners-www-baileypottery-com-blog-best-pottery-wheels",
+      "name": "Best Pottery Wheels For Beginners",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/best-pottery-wheels-for-beginners",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:42.417Z"
+    },
+    {
+      "id": "brands-html-www-baileypottery-com-pottery-ceramic-tools-brands-html",
+      "name": "Brands.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:43.844Z"
+    },
+    {
+      "id": "brown-tool-co-html-www-baileypottery-com-pottery-ceramic-tools-brands-brown-tool",
+      "name": "Brown Tool Co.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands/brown-tool-co.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:46.645Z"
+    },
+    {
+      "id": "carving-a-jack-o-lantern-using-ceramic-artist-s-tools-www-baileypottery-com-blog",
+      "name": "Carving A Jack O Lantern Using Ceramic Artist S Tools",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/carving-a-jack-o-lantern-using-ceramic-artist-s-tools",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:50.086Z"
+    },
+    {
+      "id": "carving-a-planter-using-the-mudtools-drag-tool-www-baileypottery-com-blog-carvin",
+      "name": "Carving A Planter Using The Mudtools Drag Tool",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/carving-a-planter-using-the-mudtools-drag-tool",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:50.588Z"
+    },
+    {
+      "id": "catalyst-tools-html-www-baileypottery-com-pottery-ceramic-tools-brands-catalyst-",
+      "name": "Catalyst Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands/catalyst-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:51.067Z"
+    },
+    {
+      "id": "choosing-the-right-kiln-size-www-baileypottery-com-blog-choosing-the-right-kiln-",
+      "name": "Choosing The Right Kiln Size",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/choosing-the-right-kiln-size",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:52.033Z"
+    },
+    {
+      "id": "clock-parts-html-www-baileypottery-com-pottery-ceramic-tools-finishing-accessori",
+      "name": "Clock Parts.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/finishing-accessories/clock-parts.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:55.283Z"
+    },
+    {
+      "id": "considerations-when-buying-a-top-loading-electric-kiln-www-baileypottery-com-blo",
+      "name": "Considerations When Buying A Top Loading Electric Kiln",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/considerations-when-buying-a-top-loading-electric-kiln",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:56.233Z"
+    },
+    {
+      "id": "create-a-wheel-thrown-chip-and-dip-platter-www-baileypottery-com-blog-create-a-w",
+      "name": "Create A Wheel Thrown Chip And Dip Platter",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/create-a-wheel-thrown-chip-and-dip-platter",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:51:57.724Z"
+    },
+    {
+      "id": "cut-off-wire-tools-html-www-baileypottery-com-pottery-ceramic-tools-cut-off-wire",
+      "name": "Cut Off Wire Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/cut-off-wire-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:51:59.494Z"
+    },
+    {
+      "id": "demystifying-kiln-controllers-standard-vs-genesis-for-your-top-loading-electric-",
+      "name": "Demystifying Kiln Controllers Standard Vs Genesis For Your Top Loading Electric Kiln",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/demystifying-kiln-controllers-standard-vs-genesis-for-your-top-loading-electric-kiln",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:52:01.086Z"
+    },
+    {
+      "id": "dirty-girls-pottery-tools-html-www-baileypottery-com-pottery-ceramic-tools-brand",
+      "name": "Dirty Girls Pottery Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands/dirty-girls-pottery-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:09.042Z"
+    },
+    {
+      "id": "dolan-m20-mini-sculpting-tools-www-clay-king-com-product-dolan-m20-mini-sculptin",
+      "name": "Dolan M20 Mini Sculpting Tools",
+      "category": "Clays",
+      "sourceUrl": "http://www.clay-king.com/product/dolan-m20-mini-sculpting-tools/",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:10.484Z"
+    },
+    {
+      "id": "dolan-html-www-baileypottery-com-pottery-ceramic-tools-brands-dolan-html",
+      "name": "Dolan.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands/dolan.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:10.944Z"
+    },
+    {
+      "id": "dry-pressed-high-alumina-html-www-baileypottery-com-kiln-room-store-kiln-furnitu",
+      "name": "Dry Pressed High Alumina.Html",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/kiln-room/store-kiln-furniture-and-accessories-kiln-shelves/dry-pressed-high-alumina.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:11.887Z"
+    },
+    {
+      "id": "essential-practice-shapes-for-learning-the-pottery-wheel-www-baileypottery-com-b",
+      "name": "Essential Practice Shapes For Learning The Pottery Wheel",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/essential-practice-shapes-for-learning-the-pottery-wheel",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:52:13.483Z"
+    },
+    {
+      "id": "finishing-accessories-html-www-baileypottery-com-pottery-ceramic-tools-finishing",
+      "name": "Finishing Accessories.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/finishing-accessories.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:19.140Z"
+    },
+    {
+      "id": "garrity-tools-detail-set-1-html-www-baileypottery-com-garrity-tools-detail-set-1",
+      "name": "Garrity Tools Detail Set 1.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/garrity-tools-detail-set-1.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:25.733Z"
+    },
+    {
+      "id": "garrity-tools-detail-set-2-html-www-baileypottery-com-garrity-tools-detail-set-2",
+      "name": "Garrity Tools Detail Set 2.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/garrity-tools-detail-set-2.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:26.365Z"
+    },
+    {
+      "id": "garrity-tools-throwing-stick-1-html-www-baileypottery-com-garrity-tools-throwing",
+      "name": "Garrity Tools Throwing Stick 1.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/garrity-tools-throwing-stick-1.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:35.372Z"
+    },
+    {
+      "id": "garrity-tools-throwing-stick-2-html-www-baileypottery-com-garrity-tools-throwing",
+      "name": "Garrity Tools Throwing Stick 2.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/garrity-tools-throwing-stick-2.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:36.992Z"
+    },
+    {
+      "id": "garrity-tools-tiny-tool-set-2-html-www-baileypottery-com-garrity-tools-tiny-tool",
+      "name": "Garrity Tools Tiny Tool Set 2.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/garrity-tools-tiny-tool-set-2.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:37.491Z"
+    },
+    {
+      "id": "garrity-tools-tiny-tool-set-html-www-baileypottery-com-garrity-tools-tiny-tool-s",
+      "name": "Garrity Tools Tiny Tool Set.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/garrity-tools-tiny-tool-set.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:37.974Z"
+    },
+    {
+      "id": "glaze-supplies-html-www-baileypottery-com-pottery-ceramic-tools-glaze-supplies-h",
+      "name": "Glaze Supplies.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/glaze-supplies.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:41.018Z"
+    },
+    {
+      "id": "gr-forms-html-www-baileypottery-com-pottery-ceramic-tools-brands-gr-forms-html",
+      "name": "Gr Forms.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands/gr-forms.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:42.036Z"
+    },
+    {
+      "id": "groovy-tools-html-www-baileypottery-com-pottery-ceramic-tools-brands-groovy-tool",
+      "name": "Groovy Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands/groovy-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:43.943Z"
+    },
+    {
+      "id": "how-to-change-bailey-electric-kiln-elements-www-baileypottery-com-blog-how-to-ch",
+      "name": "How To Change Bailey Electric Kiln Elements",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/how-to-change-bailey-electric-kiln-elements",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:52:49.416Z"
+    },
+    {
+      "id": "how-to-change-thermocouples-in-bailey-top-loading-electric-kilns-www-baileypotte",
+      "name": "How To Change Thermocouples In Bailey Top Loading Electric Kilns",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/how-to-change-thermocouples-in-bailey-top-loading-electric-kilns",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:52:49.998Z"
+    },
+    {
+      "id": "intro-to-wheel-throwing-with-tricia-march-2026-www-clay-king-com-product-intro-t",
+      "name": "Intro To Wheel Throwing With Tricia March 2026",
+      "category": "Machines",
+      "sourceUrl": "http://www.clay-king.com/product/intro-to-wheel-throwing-with-tricia-march-2026/",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:53.224Z"
+    },
+    {
+      "id": "kemper-html-www-baileypottery-com-pottery-ceramic-tools-brands-kemper-html",
+      "name": "Kemper.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brands/kemper.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:56.145Z"
+    },
+    {
+      "id": "kiln-posts-1-5-wide-www-clay-king-com-product-kiln-posts-1-5-wide",
+      "name": "Kiln Posts 1 5 Wide",
+      "category": "Kilns",
+      "sourceUrl": "http://www.clay-king.com/product/kiln-posts-1-5-wide/",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:52:59.612Z"
+    },
+    {
+      "id": "make-your-own-wheel-thrown-ceramic-pumpkins-www-baileypottery-com-blog-make-your",
+      "name": "Make Your Own Wheel Thrown Ceramic Pumpkins",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/make-your-own-wheel-thrown-ceramic-pumpkins",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:53:20.799Z"
+    },
+    {
+      "id": "meet-the-bailey-pro-series-pottery-wheels-www-baileypottery-com-blog-meet-the-ba",
+      "name": "Meet The Bailey Pro Series Pottery Wheels",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/meet-the-bailey-pro-series-pottery-wheels",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:53:22.286Z"
+    },
+    {
+      "id": "mudtools-mudsponge-collection-set-of-3-www-clay-king-com-product-mudtools-mudspo",
+      "name": "Mudtools Mudsponge Collection Set Of 3",
+      "category": "Clays",
+      "sourceUrl": "http://www.clay-king.com/product/mudtools-mudsponge-collection-set-of-3/",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:53:37.030Z"
+    },
+    {
+      "id": "mystery-pot-37-maker-richard-batterham-www-baileypottery-com-blog-mystery-pot-37",
+      "name": "Mystery Pot 37 Maker Richard Batterham",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/mystery-pot-37-maker-richard-batterham",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:53:44.353Z"
+    },
+    {
+      "id": "needle-scoring-tools-html-www-baileypottery-com-pottery-ceramic-tools-needle-sco",
+      "name": "Needle Scoring Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/needle-scoring-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:53:44.983Z"
+    },
+    {
+      "id": "new-advanced-formula-thermal-lite-kiln-shelves-www-baileypottery-com-blog-new-ad",
+      "name": "New Advanced Formula Thermal Lite Kiln Shelves",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/new-advanced-formula-thermal-lite-kiln-shelves",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:53:45.522Z"
+    },
+    {
+      "id": "new-gr-pottery-accessories-plates-created-with-gr-forms-www-baileypottery-com-bl",
+      "name": "New Gr Pottery Accessories Plates Created With Gr Forms",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/new-gr-pottery-accessories-plates-created-with-gr-forms",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:53:46.003Z"
+    },
+    {
+      "id": "our-guide-to-calculating-kiln-firing-costs-www-baileypottery-com-blog-our-guide-",
+      "name": "Our Guide To Calculating Kiln Firing Costs",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/our-guide-to-calculating-kiln-firing-costs",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:54:10.988Z"
+    },
+    {
+      "id": "pottery-tool-sets-html-www-baileypottery-com-pottery-ceramic-tools-tool-sets-pot",
+      "name": "Pottery Tool Sets.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/tool-sets/pottery-tool-sets.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:54:22.700Z"
+    },
+    {
+      "id": "pyrometric-cones-for-kiln-firing-www-baileypottery-com-blog-pyrometric-cones-for",
+      "name": "Pyrometric Cones For Kiln Firing",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/pyrometric-cones-for-kiln-firing",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:54:26.629Z"
+    },
+    {
+      "id": "quality-easy-to-use-tools-for-developing-new-patterns-in-clay-www-baileypottery-",
+      "name": "Quality Easy To Use Tools For Developing New Patterns In Clay",
+      "category": "Clays",
+      "sourceUrl": "https://www.baileypottery.com/blog/quality-easy-to-use-tools-for-developing-new-patterns-in-clay",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:54:27.092Z"
+    },
+    {
+      "id": "safety-equipment-html-www-baileypottery-com-kiln-room-safety-equipment-html",
+      "name": "Safety Equipment.Html",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/kiln-room/safety-equipment.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:54:33.941Z"
+    },
+    {
+      "id": "sgraffito-tools-html-www-baileypottery-com-pottery-ceramic-tools-sgraffito-tools",
+      "name": "Sgraffito Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/sgraffito-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:54:38.331Z"
+    },
+    {
+      "id": "stoppers-html-www-baileypottery-com-pottery-ceramic-tools-finishing-accessories-",
+      "name": "Stoppers.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/finishing-accessories/stoppers.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:54:51.810Z"
+    },
+    {
+      "id": "store-brushes-all-brushes-html-www-baileypottery-com-pottery-ceramic-tools-brush",
+      "name": "Store Brushes All Brushes.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brushes/store-brushes-all-brushes.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:54:52.298Z"
+    },
+    {
+      "id": "store-brushes-hake-html-www-baileypottery-com-pottery-ceramic-tools-brushes-stor",
+      "name": "Store Brushes Hake.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/brushes/store-brushes-hake.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:54:54.277Z"
+    },
+    {
+      "id": "store-decorating-pottery-tools-html-www-baileypottery-com-pottery-ceramic-tools-",
+      "name": "Store Decorating Pottery Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-decorating-pottery-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:54:57.327Z"
+    },
+    {
+      "id": "store-general-pottery-tools-calipers-measuring-tools-html-www-baileypottery-com-",
+      "name": "Store General Pottery Tools Calipers Measuring Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-general-pottery-tools-calipers-measuring-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:02.583Z"
+    },
+    {
+      "id": "store-general-pottery-tools-needle-html-www-baileypottery-com-pottery-ceramic-to",
+      "name": "Store General Pottery Tools Needle.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/needle-scoring-tools/store-general-pottery-tools-needle.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:03.113Z"
+    },
+    {
+      "id": "store-general-pottery-tools-wire-cutters-html-www-baileypottery-com-pottery-cera",
+      "name": "Store General Pottery Tools Wire Cutters.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-general-pottery-tools-wire-cutters.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:03.635Z"
+    },
+    {
+      "id": "store-glaze-equipment-spray-guns-and-accessories-html-www-baileypottery-com-stor",
+      "name": "Store Glaze Equipment Spray Guns And Accessories.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/store-dept-pottery-ceramic-studio-equipment/store-glaze-equipment/store-glaze-equipment-spray-guns-and-accessories.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:04.790Z"
+    },
+    {
+      "id": "store-glaze-supplies-glaze-html-www-baileypottery-com-pottery-ceramic-tools-stor",
+      "name": "Store Glaze Supplies Glaze.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-glaze-supplies/store-glaze-supplies-glaze.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:05.442Z"
+    },
+    {
+      "id": "store-glaze-supplies-scales-html-www-baileypottery-com-pottery-ceramic-tools-sto",
+      "name": "Store Glaze Supplies Scales.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-glaze-supplies/store-glaze-supplies-scales.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:06.818Z"
+    },
+    {
+      "id": "store-glaze-supplies-html-www-baileypottery-com-pottery-ceramic-tools-store-glaz",
+      "name": "Store Glaze Supplies.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-glaze-supplies.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:08.360Z"
+    },
+    {
+      "id": "store-handbuilding-sculpture-tools-handle-spout-makers-html-www-baileypottery-co",
+      "name": "Store Handbuilding Sculpture Tools Handle Spout Makers.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-throwing-pottery-tools/store-handbuilding-sculpture-tools-handle-spout-makers.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:09.398Z"
+    },
+    {
+      "id": "store-handbuilding-sculpture-tools-scoring-html-www-baileypottery-com-pottery-ce",
+      "name": "Store Handbuilding Sculpture Tools Scoring.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/needle-scoring-tools/store-handbuilding-sculpture-tools-scoring.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:12.088Z"
+    },
+    {
+      "id": "store-handbuilding-sculpture-tools-slab-and-tools-html-www-baileypottery-com-pot",
+      "name": "Store Handbuilding Sculpture Tools Slab And Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/texture-drape-molds/store-handbuilding-sculpture-tools-slab-and-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:12.571Z"
+    },
+    {
+      "id": "store-handbuilding-sculpture-tools-html-www-baileypottery-com-pottery-ceramic-to",
+      "name": "Store Handbuilding Sculpture Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-handbuilding-sculpture-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:13.107Z"
+    },
+    {
+      "id": "store-kiln-furniture-and-accessories-kiln-post-html-www-baileypottery-com-kiln-r",
+      "name": "Store Kiln Furniture And Accessories Kiln Post.Html",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/kiln-room/store-kiln-furniture-and-accessories-kiln-post.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:14.054Z"
+    },
+    {
+      "id": "store-kiln-furniture-and-accessories-kiln-shelves-html-www-baileypottery-com-kil",
+      "name": "Store Kiln Furniture And Accessories Kiln Shelves.Html",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/kiln-room/store-kiln-furniture-and-accessories-kiln-shelves.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:14.541Z"
+    },
+    {
+      "id": "store-kiln-furniture-and-accessories-html-www-baileypottery-com-kilns-store-kiln",
+      "name": "Store Kiln Furniture And Accessories.Html",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/kilns/store-kiln-furniture-and-accessories.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:15.956Z"
+    },
+    {
+      "id": "store-pottery-tool-sets-brush-html-www-baileypottery-com-pottery-ceramic-tools-t",
+      "name": "Store Pottery Tool Sets Brush.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/tool-sets/store-pottery-tool-sets-brush.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:16.467Z"
+    },
+    {
+      "id": "store-refractories-and-mortars-kaowool-fiber-anchor-syst-html-www-baileypottery-",
+      "name": "Store Refractories And Mortars Kaowool Fiber Anchor Syst.Html",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/kiln-room/store-refractories-and-mortars-kaowool-fiber-anchor-syst.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:17.888Z"
+    },
+    {
+      "id": "store-throwing-pottery-tools-ribs-scrapers-html-www-baileypottery-com-pottery-ce",
+      "name": "Store Throwing Pottery Tools Ribs Scrapers.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-throwing-pottery-tools/store-throwing-pottery-tools-ribs-scrapers.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:23.201Z"
+    },
+    {
+      "id": "store-throwing-pottery-tools-throwing-html-www-baileypottery-com-pottery-ceramic",
+      "name": "Store Throwing Pottery Tools Throwing.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-throwing-pottery-tools/store-throwing-pottery-tools-throwing.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:23.671Z"
+    },
+    {
+      "id": "store-throwing-pottery-tools-html-www-baileypottery-com-pottery-ceramic-tools-st",
+      "name": "Store Throwing Pottery Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-throwing-pottery-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:24.137Z"
+    },
+    {
+      "id": "store-trimming-pottery-tools-ribbon-and-wire-tool-html-www-baileypottery-com-pot",
+      "name": "Store Trimming Pottery Tools Ribbon And Wire Tool.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-trimming-pottery-tools/store-trimming-pottery-tools-ribbon-and-wire-tool.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:27.013Z"
+    },
+    {
+      "id": "store-trimming-pottery-tools-turning-tools-html-www-baileypottery-com-pottery-ce",
+      "name": "Store Trimming Pottery Tools Turning Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-trimming-pottery-tools/store-trimming-pottery-tools-turning-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:27.488Z"
+    },
+    {
+      "id": "store-trimming-pottery-tools-html-www-baileypottery-com-pottery-ceramic-tools-st",
+      "name": "Store Trimming Pottery Tools.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/store-trimming-pottery-tools.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:27.949Z"
+    },
+    {
+      "id": "store-wheel-accessories-extenstion-legs-html-www-baileypottery-com-pottery-wheel",
+      "name": "Store Wheel Accessories Extenstion Legs.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories/store-wheel-accessories-extenstion-legs.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:29.434Z"
+    },
+    {
+      "id": "store-wheel-accessories-hydro-bats-html-www-baileypottery-com-pottery-wheels-whe",
+      "name": "Store Wheel Accessories Hydro Bats.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories/store-wheel-accessories-hydro-bats.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:29.917Z"
+    },
+    {
+      "id": "store-wheel-accessories-plastic-bats-html-www-baileypottery-com-pottery-wheels-w",
+      "name": "Store Wheel Accessories Plastic Bats.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories/store-wheel-accessories-plastic-bats.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:31.321Z"
+    },
+    {
+      "id": "store-wheel-accessories-quick-release-mold-system-html-www-baileypottery-com-pot",
+      "name": "Store Wheel Accessories Quick Release Mold System.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories/store-wheel-accessories-quick-release-mold-system.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:31.771Z"
+    },
+    {
+      "id": "store-wheel-accessories-stools-cushions-html-www-baileypottery-com-pottery-wheel",
+      "name": "Store Wheel Accessories Stools Cushions.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories/store-wheel-accessories-stools-cushions.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:32.730Z"
+    },
+    {
+      "id": "texture-drape-molds-html-www-baileypottery-com-pottery-ceramic-tools-texture-dra",
+      "name": "Texture Drape Molds.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/texture-drape-molds.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:35.510Z"
+    },
+    {
+      "id": "the-5-types-of-kiln-shelves-you-need-to-know-about-www-baileypottery-com-blog-th",
+      "name": "The 5 Types Of Kiln Shelves You Need To Know About",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/blog/the-5-types-of-kiln-shelves-you-need-to-know-about",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:55:37.483Z"
+    },
+    {
+      "id": "the-7-tools-you-ll-need-for-raku-firing-www-baileypottery-com-blog-the-7-tools-y",
+      "name": "The 7 Tools You Ll Need For Raku Firing",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/the-7-tools-you-ll-need-for-raku-firing",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:55:37.970Z"
+    },
+    {
+      "id": "the-bailey-pro-50r-potter-s-wheel1-www-baileypottery-com-blog-the-bailey-pro-50r",
+      "name": "The Bailey Pro 50r Potter S Wheel1",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/the-bailey-pro-50r-potter-s-wheel1",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:55:38.499Z"
+    },
+    {
+      "id": "the-speedball-artista-pottery-wheel-from-bailey-pottery-www-baileypottery-com-bl",
+      "name": "The Speedball Artista Pottery Wheel From Bailey Pottery",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/blog/the-speedball-artista-pottery-wheel-from-bailey-pottery",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:55:54.005Z"
+    },
+    {
+      "id": "thermal-lite-html-www-baileypottery-com-kiln-room-store-kiln-furniture-and-acces",
+      "name": "Thermal Lite.Html",
+      "category": "Kilns",
+      "sourceUrl": "https://www.baileypottery.com/kiln-room/store-kiln-furniture-and-accessories-kiln-shelves/thermal-lite.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:54.896Z"
+    },
+    {
+      "id": "throwing-a-platter-on-a-hydrobat-hump-mold-www-baileypottery-com-blog-throwing-a",
+      "name": "Throwing A Platter On A Hydrobat Hump Mold",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/throwing-a-platter-on-a-hydrobat-hump-mold",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:55:55.441Z"
+    },
+    {
+      "id": "throwing-bats-html-www-baileypottery-com-pottery-wheels-wheel-accessories-throwi",
+      "name": "Throwing Bats.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories/throwing-bats.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:55.905Z"
+    },
+    {
+      "id": "tool-sets-html-www-baileypottery-com-pottery-ceramic-tools-tool-sets-html",
+      "name": "Tool Sets.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/tool-sets.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:55:58.258Z"
+    },
+    {
+      "id": "utensils-html-www-baileypottery-com-pottery-ceramic-tools-finishing-accessories-",
+      "name": "Utensils.Html",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/pottery-ceramic-tools/finishing-accessories/utensils.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:56:02.355Z"
+    },
+    {
+      "id": "van-gilder-clay-tools-www-baileypottery-com-blog-van-gilder-clay-tools",
+      "name": "Van Gilder Clay Tools",
+      "category": "Clays",
+      "sourceUrl": "https://www.baileypottery.com/blog/van-gilder-clay-tools",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:56:02.914Z"
+    },
+    {
+      "id": "van-gilder-hump-cut-off-tool-www-baileypottery-com-blog-van-gilder-hump-cut-off-",
+      "name": "Van Gilder Hump Cut Off Tool",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/van-gilder-hump-cut-off-tool",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:56:03.632Z"
+    },
+    {
+      "id": "wheel-accessories-html-www-baileypottery-com-pottery-wheels-wheel-accessories-ht",
+      "name": "Wheel Accessories.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:56:08.207Z"
+    },
+    {
+      "id": "wheel-accessories-html-www-baileypottery-com-pottery-wheels-wheel-accessories-wh",
+      "name": "Wheel Accessories.Html",
+      "category": "Machines",
+      "sourceUrl": "https://www.baileypottery.com/pottery-wheels/wheel-accessories/wheel-accessories.html",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:56:08.674Z"
+    },
+    {
+      "id": "xiem-cfss5-10486-clay-finishing-tools-strong-firm-silicone-5pc-set-www-clay-king",
+      "name": "Xiem Cfss5 10486 Clay Finishing Tools Strong Firm Silicone 5pc Set",
+      "category": "Clays",
+      "sourceUrl": "http://www.clay-king.com/product/xiem-cfss5-10486-clay-finishing-tools-strong-firm-silicone-5pc-set/",
+      "reason": "out-of-stock-text",
+      "lastVerifiedAt": "2026-02-27T00:56:12.608Z"
+    },
+    {
+      "id": "xiem-tools-for-perfect-details-amaco-for-the-perfect-pop-www-baileypottery-com-b",
+      "name": "Xiem Tools For Perfect Details Amaco For The Perfect Pop",
+      "category": "Tools",
+      "sourceUrl": "https://www.baileypottery.com/blog/xiem-tools-for-perfect-details-amaco-for-the-perfect-pop",
+      "reason": "http-404",
+      "lastVerifiedAt": "2026-02-27T00:56:14.184Z"
+    }
+  ]
 }

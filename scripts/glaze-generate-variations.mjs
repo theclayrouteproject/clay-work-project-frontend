@@ -29,7 +29,7 @@ function generateVariation(baseGlaze, index) {
 
   return {
     enabled: true,
-    recipeId: 100000 + index,
+    recipeId: 200000 + index,
     name: `${baseGlaze.name} - ${CONES[coneIdx]} ${FINISHES[finishIdx]} #${index}`,
     maker: baseGlaze.maker || 'Generated',
     firingCone: CONES[coneIdx],
@@ -45,12 +45,12 @@ async function generateAndPopulateQueue() {
   const glazesData = JSON.parse(await fs.readFile(glazesPath, 'utf8'));
 
   console.log(`[glaze-gen] Loaded ${glazesData.length} base glazes`);
-  console.log(`[glaze-gen] Generating 5000+ variations...`);
+  console.log(`[glaze-gen] Generating 20000 variations...`);
 
   // Load existing queue
   let queue;
   try {
-    queue = JSON.parse(await fs.readFileSync(queuePath, 'utf8'));
+    queue = JSON.parse(await fs.readFile(queuePath, 'utf8'));
   } catch {
     queue = { autoSkipReview: true, recipes: [] };
   }
@@ -62,13 +62,13 @@ async function generateAndPopulateQueue() {
   let added = 0;
 
   // Generate variations
-  const variationsPerGlaze = Math.ceil(5000 / glazesData.length);
+  const variationsPerGlaze = Math.ceil(20000 / glazesData.length);
   let generated = 0;
 
   for (const glaze of glazesData) {
-    if (generated >= 5000) break;
+    if (generated >= 20000) break;
 
-    for (let i = 0; i < variationsPerGlaze && generated < 5000; i++) {
+    for (let i = 0; i < variationsPerGlaze && generated < 20000; i++) {
       const variation = generateVariation(glaze, generated);
       const id = Number(variation.recipeId);
 
@@ -77,7 +77,7 @@ async function generateAndPopulateQueue() {
         added += 1;
         generated += 1;
 
-        if (generated % 500 === 0) {
+        if (generated % 2000 === 0) {
           console.log(`[glaze-gen] Generated ${generated} variations...`);
         }
       }

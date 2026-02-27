@@ -6,3 +6,11 @@
 
 [glazy-crawl] Collected 0 recipes
 [glazy-crawl] No new recipes found.
+[glazy-crawl] Starting crawl session
+[glazy-crawl] Current state: page=1, added=0/5000
+[glazy-crawl] Crawling up to 100 recipes with 500ms delays...
+[glazy-crawl] Fetching listing page 1...
+[glazy-crawl] No recipes found on page 1, stopping.
+
+[glazy-crawl] Collected 0 recipes
+[glazy-crawl] No new recipes found.
